@@ -27,4 +27,4 @@ Link: <a href='https://movies-bf95f.web.app/'>https://movies-bf95f.web.app</a>
 </li>
 </ol>
 <h2>Author</h2>
-<p>Github: <a href='https://github.com/Andrew1326/cryptocurrency'>https://github.com/Andrew1326</a></p>
+<p>Github: <a href='https://github.com/Andrew1326'>https://github.com/Andrew1326</a></p>
